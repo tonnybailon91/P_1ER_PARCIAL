@@ -1,0 +1,2 @@
+# P_1ER_PARCIAL
+PROYECTO_1ER_PARCIAL Automatización De Sílabos Para La ULEAM
